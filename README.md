@@ -1,6 +1,6 @@
 Problem Solving 3 (Software Construction)
 
-- Polymorphism - PolymorphismDemo.java
+- Polymorphism - TestEid.java
 - Inheritance - TestWorker.java
 
 How to run this files
